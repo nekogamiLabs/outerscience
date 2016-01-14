@@ -1,6 +1,7 @@
-# outerscience
+# OuterScience
 A wip minecraft forge mod
 
+///////////////////////////////LEGAL///////////////////////////////////
 Texture/sound Assets: Copyright(c)2015, nekogamiLabs
 
 Overall:
@@ -17,3 +18,4 @@ Being a dick includes - but is not limited to - the following instances:
 Code is provided with no warranty. Using somebody else's code and bitching when it goes wrong makes you a DONKEY dick. Fix the problem yourself. A non-dick would submit the fix back.
 
 Should any member of nekogamiLabs think you are being a dick, you will be prompty notified and due action will be taken to end your dickary.
+///////////////////////////////LEGAL///////////////////////////////////
