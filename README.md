@@ -1,6 +1,8 @@
 # OuterScience
 A wip minecraft forge mod
 
+FORGE VERSION : 1.7.10-10.13.4.1558-1.7.10
+
 ///////////////////////////////LEGAL///////////////////////////////////
 Texture/sound Assets: Copyright(c)2015, nekogamiLabs
 
