@@ -3,6 +3,13 @@ A wip minecraft forge mod
 
 FORGE VERSION : 1.7.10-10.13.4.1558-1.7.10
 
+MODS REQUIRED :
+CodeChickenCore-1.7.10-1.0.1.8-universal
+CoFHCore-[1.7.10]3.0.3-303
+ThermalDynamics-[1.7.10]1.1.0-161
+ThermalExpansion-[1.7.10]4.0.3B1-218
+ThermalFoundation-[1.7.10]1.2.0-102
+
 ///////////////////////////////LEGAL///////////////////////////////////
 Texture/sound Assets: Copyright(c)2015, nekogamiLabs
 
