@@ -7,6 +7,6 @@ gradlew.bat
 echo
 .project
 .classpath
-.settings*
-.metadata*
-bin
+.settings/*
+.metadata/*
+bin/*

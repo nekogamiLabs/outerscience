@@ -114,6 +114,6 @@ public class MainClass
 	ItemStack dnaI = new ItemStack(dna);
 	FluidStack lclF = new FluidStack(lcl, 100);
 	  
-	cofh.api.modhelpers.ThermalExpansionHelper.addCrucibleRecipe(4000, dnaI, lclF);
+	//cofh.api.modhelpers.ThermalExpansionHelper.addCrucibleRecipe(4000, dnaI, lclF);
   }
 }
